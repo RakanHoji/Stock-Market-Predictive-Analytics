@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+psycopg2-binary
+yfinance
+beautifulsoup4
+requests
+vaderSentiment
+prophet
+streamlit
+plotly
+apache-airflow
