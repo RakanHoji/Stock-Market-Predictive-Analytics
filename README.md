@@ -87,7 +87,7 @@ Forecast charts + sentiment trends
 
 Add real-time ingestion with Kafka + Spark Streaming.
 
-Deploy on AWS/GCP/Azure.
+Deploy on GCP using Terraform.
 
 Implement CI/CD retraining pipeline with GitHub Actions.
 
