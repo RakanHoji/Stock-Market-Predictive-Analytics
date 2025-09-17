@@ -82,6 +82,11 @@ Visualization:
 Interactive Streamlit dashboard
 Forecast charts + sentiment trends
 
+**Scan for Bugs:**
+Use **SonarQube** to scan bugs and any security risks
+Use **HashiCorp** for securing API keys and passwords
+
+
 
 #### Extensions (For Future Work)
 
