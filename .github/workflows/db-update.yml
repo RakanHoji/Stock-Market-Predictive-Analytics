@@ -1,5 +1,7 @@
 name: Fiirst Workflow
-on: workflow_dispatch # When the job runs so far its Manual
+on:
+  schedule:
+    - cron: '0 9 * * 1-5' # When the job runs so far its Manual
 jobs:
   first-job:   # First Job <- can be named as you want
     runs-on: macos-15-intel
