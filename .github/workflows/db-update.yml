@@ -1,0 +1,10 @@
+name: Fiirst Workflow
+on: workflow_dispatch # When the job runs so far its Manual
+jobs:
+  first-job:   # First Job <- can be named as you want
+    runs-on: macos-15-intel
+    steps:
+      - name: Get Stocks
+        run: echo "Hello Worls"
+      - name: print goodbye
+        run: echo "Done - Bye!"
